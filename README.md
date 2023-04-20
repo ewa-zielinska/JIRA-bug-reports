@@ -2,7 +2,7 @@ Link to the tested website: [link](https://qa-autocheck-test.netlify.app/?token=
 
 Link to the documentation: [link](https://faq-qa.m.goit.global/pl/components-and-functionality/header)
 
-Based on designed test cases I've prepared 9 bug reports. I've been using JIRA to create those bug reports. I've exported all 9 bug reports to bug_report.doc file and they can be download from this repository. I've also attached a few screenshots of bug reports directly from JIRA for reference:
+Furthermore, upon analyzing the devised test cases, I have generated nine detailed bug reports. These reports were created using JIRA, a powerful project management platform. All nine bug reports have been consolidated into a single bug_report.doc file, which can also be downloaded from this repository. In addition, I have attached a selection of screenshots showcasing the bug reports, taken directly from JIRA for your reference:
 ![br1](https://user-images.githubusercontent.com/131160264/232806372-087a7962-e14f-4469-8b49-e58b2a1cc27c.png)
 ![br2](https://user-images.githubusercontent.com/131160264/232806378-49b97c0c-4f63-4e53-918a-35ec776c6444.png)
 ![br3](https://user-images.githubusercontent.com/131160264/232806385-cbcaf010-98b9-4c56-b015-0a95105a2bbe.png)
